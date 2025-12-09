@@ -16,13 +16,13 @@
 # 🖼 项目截图
 
 ## 📌 主界面（棋盘 & 排行榜 & 说明书）
-![](https://image.131200.xyz/file/AgACAgUAAyEGAASuvELVAAMQaTg7H2NJBwEukOp4lfqxc8t0bu4AAmsNaxsXXcFVYZqzePSHwhIBAAMCAAN3AAM2BA.png)
+![](./screenshots/1.png)
 
 ## 📌 游戏结束弹窗
-![](https://image.131200.xyz/file/AgACAgUAAyEGAASuvELVAAMRaTg7fInsAV0X82L6vU26AAEsfB2NAAJtDWsbF13BVYtwKmEdh2v7AQADAgADdwADNgQ.png)
+![](./screenshots/2.png)
 
 ## 📌 成绩提交界面
-![](https://image.131200.xyz/file/AgACAgUAAyEGAASuvELVAAMSaTg7zPqrF-uZM7gDH0q5BnHUKCoAAnENaxsXXcFVEcMOpRrOkCIBAAMCAAN3AAM2BA.png)
+![](./screenshots/3.png)
 
 ---
 
