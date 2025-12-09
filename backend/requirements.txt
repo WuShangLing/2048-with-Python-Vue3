@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+starlette
+jinja2
+python-multipart
+anyio
